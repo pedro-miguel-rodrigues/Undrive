@@ -14,7 +14,7 @@ Undrive was develop as a project in the course User Centered Design, the goal wa
 In the development of this project before we started with the Application we developed a Value Proposition and a Business Model Canvas shown in [Project Pitch and Stakeholders](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/Project%20Pitch%20and%20Stakeholders.ppsx)
 
 After the [User Research Plan](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/User%20Research%20Plan.ppsx) we started working in the [Low Fidelity Prototype](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/Low%20Fidelity%20Prototype.ppsx) and after a Formative User Study and [Usability Testing](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/UsabilityTesting.ppsx) we arroved at the [Functional-Prototype](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/Fully-Functional-Prototype.ppsx)
-<p float="middle">
+<p align="middle">>
   <img src="https://user-images.githubusercontent.com/36460371/164559245-28a27fc9-f541-4d72-b902-aceec1b86d6a.png" width="200"/>
   <img src="https://user-images.githubusercontent.com/36460371/164558639-75c63802-4df0-42c3-a9f9-47496362cc4f.png" width="200"/>
  <img src="https://user-images.githubusercontent.com/36460371/164562744-b41685f8-1b41-46f0-b5ea-682b67eb2f90.png" width="600"/>
