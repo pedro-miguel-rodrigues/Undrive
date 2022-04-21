@@ -17,7 +17,7 @@ After the [User Research Plan](https://github.com/pedro-miguel-rodrigues/Undrive
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/36460371/164559245-28a27fc9-f541-4d72-b902-aceec1b86d6a.png" width="200"/>
   <img src="https://user-images.githubusercontent.com/36460371/164558639-75c63802-4df0-42c3-a9f9-47496362cc4f.png" width="200"/>
-  <img src="https://user-images.githubusercontent.com/36460371/164563142-9aa59768-297e-43dc-ae06-6626500da479.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/36460371/164563142-9aa59768-297e-43dc-ae06-6626500da479.png" height="500"/>
 </p>
 
 The complete process, from the conception of the idea to the development Functional Prototype, is detailed in the [Final Report](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/Group%207%20-%20Undrive%20Final%20Report.pdf)
