@@ -11,4 +11,4 @@ Undrive was develop as a project in the course User Centered Design, the goal wa
 * Space
   * Transportation takes a vast amount of urban space
 
-In the development of this project before we started with the Application we developed a Value Proposition and a Business Model Canvas shown in [a link](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/User%20Research%20Plan.ppsx)
+In the development of this project before we started with the Application we developed a Value Proposition and a Business Model Canvas shown in [User Research Plan](https://github.com/pedro-miguel-rodrigues/Undrive/blob/main/User%20Research%20Plan.ppsx)
